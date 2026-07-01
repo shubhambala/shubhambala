@@ -6,14 +6,21 @@ I build practical digital solutions for mining, manufacturing and industrial ope
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Products
 
-- 🏭 Mining Intelligence Lab
-- 📊 Industrial Dashboards
-- 🤖 Industrial AI Solutions
-- 💼 Freelance Web Projects
-- ✈️ Travel Content & Digital Media
+### 🏭 Mining Intelligence Lab
+Industrial AI dashboards and digital transformation solutions for mining and manufacturing.
 
+### 🌐 Professional Portfolio
+My professional website showcasing projects, experience and consulting expertise.
+
+### ✈️ ExploreXcite
+Travel storytelling, destination guides and digital media.
+
+### 📈 Coming Next
+• Water Intelligence Platform
+• Industrial AI Pulse
+• Executive KPI Suite
 ---
 
 ## 👨‍💼 Professional Experience
@@ -26,9 +33,21 @@ I build practical digital solutions for mining, manufacturing and industrial ope
 
 ---
 
-## 🛠 Skills
+# 💼 Expertise
 
-Mining • Digital Transformation • HTML • JavaScript • Power BI • Data Analytics • AI • Dashboard Design
+🏭 Mining Operations
+
+📊 Industrial Analytics
+
+🤖 Industrial AI
+
+📈 Business Intelligence
+
+🛡️ Safety & EHS
+
+⚙️ Digital Transformation
+
+💻 Dashboard Engineering
 
 ---
 
@@ -36,4 +55,9 @@ Mining • Digital Transformation • HTML • JavaScript • Power BI • Data 
 
 - LinkedIn
 - YouTube
-- Portfolio (Coming Soon)
+- Portfolio → https://shubhambala.github.io/portfolio/
+- Mining Intelligence Lab → https://shubhambala.github.io/mining-intelligence-lab/
+
+# 🎯 Current Focus
+
+Building practical Industrial AI products that improve operational excellence, safety and decision-making across mining and manufacturing.
