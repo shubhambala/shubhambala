@@ -1,4 +1,4 @@
-# Hi, I'm Shubham Bala 👋
+# Hi, I'm Shubham Balakrishnan 👋
 
 ## Mining Engineer | Digital Transformation Consultant | Industrial AI Builder
 
