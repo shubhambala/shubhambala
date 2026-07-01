@@ -53,10 +53,9 @@ Travel storytelling, destination guides and digital media.
 
 ## 🌐 Connect
 
-- LinkedIn
-- YouTube
-- Portfolio → https://shubhambala.github.io/portfolio/
-- Mining Intelligence Lab → https://shubhambala.github.io/mining-intelligence-lab/
+- 🌐 [Portfolio](https://shubhambala.github.io/portfolio/)
+- 🏭 [Mining Intelligence Lab](https://shubhambala.github.io/mining-intelligence-lab/)
+- 💼 [LinkedIn](https://linkedin.com/in/shubhambala)
 
 # 🎯 Current Focus
 
