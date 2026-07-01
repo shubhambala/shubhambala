@@ -1,10 +1,39 @@
-- 👋 Hi, I’m Shubham Balakrishnan
-- 👀 I’m interested in New Challenges for implementation of Data Science / Machine Learning in Manufacturing Industries
-- 🌱 I’m currently learning M.S in Data Science in Business Intelligence And Analytics
-- 💞️ I’m looking to collaborate on any Industrial Automation Project
-- 📫 How to reach me directly on shubham.bala@gmail.com or telegram id @shubhambala
+# Hi, I'm Shubham Bala 👋
 
-<!---
-I will be soon sharing a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Mining Engineer | Digital Transformation Consultant | Industrial AI Builder
+
+I build practical digital solutions for mining, manufacturing and industrial operations.
+
+---
+
+## 🚀 Featured Projects
+
+- 🏭 Mining Intelligence Lab
+- 📊 Industrial Dashboards
+- 🤖 Industrial AI Solutions
+- 💼 Freelance Web Projects
+- ✈️ Travel Content & Digital Media
+
+---
+
+## 👨‍💼 Professional Experience
+
+- Mining Operations
+- Mine Planning & KPI Analytics
+- EHS Digital Transformation
+- Industrial Dashboards
+- Business Intelligence
+
+---
+
+## 🛠 Skills
+
+Mining • Digital Transformation • HTML • JavaScript • Power BI • Data Analytics • AI • Dashboard Design
+
+---
+
+## 🌐 Connect
+
+- LinkedIn
+- YouTube
+- Portfolio (Coming Soon)
